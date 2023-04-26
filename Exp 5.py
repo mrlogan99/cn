@@ -1,7 +1,5 @@
 '''
 Experiment no: 5
-Name: SHAIKH MOHAMMAD TAHA AMEEN
-Roll No: 20CO52
 Implementation of WUMPUS using python.
 9=stench
 8=glitter
