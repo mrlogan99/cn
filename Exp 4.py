@@ -1,5 +1,4 @@
-'''Name- Shaikh Mohammad Taha Ameen
-Roll No- 20CO52
+'''
 Experiment 04
  
 Aim:  Implement informed search methods A*.
