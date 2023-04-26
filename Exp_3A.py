@@ -1,6 +1,4 @@
-'''
-Name: Shaikh Mohammad Taha Ameen                                                                          
-Roll No:20CO52
+'''                                                     
 Experiment-3A
 Aim:Implementaion of Breadth First Search (BFS)
 
