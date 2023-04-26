@@ -1,7 +1,5 @@
 
 # Experiment No 7
-#Name :Shaikh Mohammad Taha Ameen
-#Roll No : 20CO52
 
 # Aim:- Implementation of Alpha-Beta Pruning Algorithm
 #Code :
