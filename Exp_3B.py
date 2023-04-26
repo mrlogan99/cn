@@ -1,6 +1,4 @@
 '''
-Name: Shaikh Mohammad Taha Ameen
-Roll No:20CO52
 Experiment-3B
 Aim:Implementaion of Depth First Search (DFS)
 '''
