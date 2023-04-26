@@ -1,6 +1,4 @@
 """
-Name : Shaikh Mohammad Taha Ameen
-Roll No : 20CO52
 """
 
 def minmax(nodeIndex, maxPlayer, scores):
